@@ -1,10 +1,8 @@
 # Tugas Pemrograman Web - Authentication Laravel Breeze
 
-Repositori ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web yang mengimplementasikan sistem autentikasi menggunakan **Laravel Breeze**. Project ini menyediakan fitur registrasi, login, verifikasi email, reset password, dan manajemen profil dasar dengan tampilan bawaan dari Tailwind CSS.
 
-## 👥 Detail Mahasiswa
 * **Nama:** Imam Aryanta Ramadhan
-* **NIM:** [Masukkan NIM Kamu di Sini]
+* **NIM:** 2411532001
 * **Program Studi:** Informatika
 * **Fakultas:** Teknologi Informasi
 * **Universitas:** Universitas Andalas
